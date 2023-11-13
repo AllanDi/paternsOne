@@ -4,7 +4,7 @@ import br.com.alura.loja.orcamento.Orcamento;
 
 import java.math.BigDecimal;
 
-public class CalculadoraDesconto {
+public class CalculadoraDescontos {
 
     public BigDecimal calcular(Orcamento orcamento){
 
